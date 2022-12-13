@@ -1,0 +1,59 @@
+* {
+    background-color: rgb(235, 232, 235);
+    font-family: 'GAELA', sans-serif;                                            
+    color: rgb(185, 146, 146); 
+                                      
+}
+
+nav > li {
+    list-style: none;
+    display: inline;  
+    background:none; 
+    margin-left: 25px;                             
+}
+
+.navbar > li {
+    list-style: none;
+    display: inline;
+}
+
+li {
+    font-size: x-small;
+}
+
+li {
+    color: rgb(0, 6, 6);
+    text-shadow: 10px;
+    font-family: 'GAELA', sans-serif;                                            
+    font-size: large; 
+    border-bottom: 1px dotted black;
+    margin-bottom: 15px;
+}
+
+a {
+    color: rgb(185, 146, 146); 
+    padding: 1em;
+    
+}
+
+
+.card {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+}
+
+
+.navbar-brand {
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 1px rgb(253, 253, 253) solid;   
+}
+
+
+
+#foot1 {
+    font-size: xx-small;
+    
+}
